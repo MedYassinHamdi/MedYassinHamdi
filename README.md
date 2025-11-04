@@ -98,9 +98,11 @@ Problem Solving   ████████████████████  
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedYassinHamdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats-iota-plum.vercel.app/api?username=MedYassinHamdi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedYassinHamdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![Top Languages](https://github-readme-stats-iota-plum.vercel.app/api/top-langs/?username=MedYassinHamdi&layout=compact&count_private=true&theme=radical&hide_border=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MedYassinHamdi&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
