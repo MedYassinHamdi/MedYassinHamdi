@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Yassin Hamdi
+# Hi , I'm Mohamed Yassin Hamdi
 
 <div align="center">
   
@@ -22,11 +22,11 @@ I believe great software is built on three pillars: **clean architecture**, **th
 
 ### 💡 What I Love:
 
-- 🔧 **Engineering complex backend systems** that handle scale with grace
-- 🎯 **Solving challenging architectural problems** with elegant solutions
-- 🌐 **Building full-stack applications** that users love and systems administrators trust
-- 📐 **Designing APIs** that are intuitive, well-documented, and maintainable
-- 🤝 **Collaborating with teams** to turn ambitious ideas into production-ready software
+-  **Engineering complex backend systems** that handle scale with grace
+-  **Solving challenging architectural problems** with elegant solutions
+-  **Building full-stack applications** that users love and systems administrators trust
+-  **Designing APIs** that are intuitive, well-documented, and maintainable
+-  **Collaborating with teams** to turn ambitious ideas into production-ready software
 
 ### 🌱 Currently Exploring:
 
