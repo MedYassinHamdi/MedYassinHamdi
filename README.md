@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Software Engineer • Full-Stack Architect • Backend Enthusiast
+### Software Engineer 
 
 *Building scalable systems with precision and purpose*
 
