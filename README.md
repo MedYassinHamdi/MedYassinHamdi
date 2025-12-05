@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Software Engineer** with a passion for architecting **robust, scalable systems** that solve real-world problems. My expertise spans the full stack, but my heart lies in tackling **complex backend challenges** and designing solutions that are both powerful and elegant.
 
 I believe great software is built on three pillars: **clean architecture**, **thoughtful design**, and **relentless attention to detail**. Whether it's orchestrating microservices, optimizing database queries, or crafting intuitive user interfaces, I bring a holistic approach to every project.
 
-### 💡 What I Love:
+###  What I Love:
 
 -  **Engineering complex backend systems** that handle scale with grace
 -  **Solving challenging architectural problems** with elegant solutions
@@ -28,21 +28,21 @@ I believe great software is built on three pillars: **clean architecture**, **th
 -  **Designing APIs** that are intuitive, well-documented, and maintainable
 -  **Collaborating with teams** to turn ambitious ideas into production-ready software
 
-### 🌱 Currently Exploring:
+###  Currently Exploring:
 
 Microservices architecture • Event-driven systems • Advanced design patterns • Cloud-native development • Performance optimization
 
-### 💬 Ask Me About:
+###  Ask Me About:
 
 Spring Boot • React & TypeScript • System design • Database optimization • RESTful APIs • Clean code practices
 
-### 🤝 Open To:
+###  Open To:
 
 Challenging projects • Open-source collaboration • Tech mentorship • Building impactful software solutions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Challenging projects • Open-source collaboration • Tech mentorship • Build
 
 ---
 
-## 💼 Core Competencies
+##  Core Competencies
 
 ```
 Architecture      ████████████████████  System Design • Microservices • Clean Architecture
@@ -94,7 +94,7 @@ Problem Solving   ████████████████████  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -111,33 +111,33 @@ Problem Solving   ████████████████████  
 
 ---
 
-## 🎯 What Drives Me
+##  What Drives Me
 
 > **"The best code is not just functional—it's maintainable, scalable, and built with the next developer in mind."**
 
 I'm driven by the challenge of turning complex problems into elegant solutions. Whether it's optimizing a database query that handles millions of records, architecting a microservices ecosystem, or building a UI that delights users—I approach each challenge with curiosity, precision, and a commitment to excellence.
 
 I believe in:
-- 📚 **Continuous learning** — Technology evolves, and so should we
-- 🔍 **Code quality** — Writing code that speaks for itself
-- 🤝 **Collaboration** — The best solutions emerge from diverse perspectives
-- 🎨 **Craftsmanship** — Treating software development as both science and art
+-  **Continuous learning** — Technology evolves, and so should we
+-  **Code quality** — Writing code that speaks for itself
+-  **Collaboration** — The best solutions emerge from diverse perspectives
+-  **Craftsmanship** — Treating software development as both science and art
 
 ---
 
-## 🌟 Let's Build Something Amazing
+##  Let's Build Something Amazing
 
 I'm always excited to collaborate on challenging projects, contribute to open-source, or simply chat about technology and software architecture. Whether you have an ambitious idea, need consultation on a technical challenge, or want to exchange knowledge—let's connect!
 
 <div align="center">
 
-### 📫 Reach Out
+###  Reach Out
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.yassin.hamdi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-hamdi)
 
 ---
 
-⭐️ From [MedYassinHamdi](https://github.com/MedYassinHamdi) | *Building the future, one commit at a time*
+ From [MedYassinHamdi](https://github.com/MedYassinHamdi) | *Building the future, one commit at a time*
 
 </div>
